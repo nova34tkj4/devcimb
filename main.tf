@@ -22,3 +22,6 @@ resource "google_compute_instance" "my_instance" {
 
   tags = ["web", "prod"]
 }
+
+
+tambahan dari feature a
